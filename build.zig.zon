@@ -1,5 +1,5 @@
 .{
-    .name = "zig-ftxui",
+    .name = "libftxui",
     .version = "5.0.0",
     .paths = .{
         "build.zig",
